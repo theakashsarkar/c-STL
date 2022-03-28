@@ -1,0 +1,15 @@
+[
+	{
+		"test": "abcab\n"
+	},
+	{
+		"test": "ajkhdfkja\n"
+	},
+	{
+		"test": "",
+		"uncorrect_answers":
+		[
+			"A -> C\nA -> C\nB -> C\nA -> C\nB -> C\nB -> C\nA -> C"
+		]
+	}
+]
